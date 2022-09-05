@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreas Bilmar Harteveld Girsang</h1>
-- 🌱 I’m currently learning **Back End Development**\\
+- 🌱 I’m currently learning Back End Development
 
 - 📫 How to reach me **https://www.linkedin.com/in/andreasbilmar/**
 
