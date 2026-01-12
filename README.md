@@ -35,11 +35,7 @@ Experienced in backend systems, modern frontend, ERP integrations, and data-driv
 
 ## Currently Learning
 
-| Area | Focus |
-|----|------|
-| Machine Learning | Fundamentals & practical implementation |
-| Data Processing | Feature engineering with Python |
-| Integration | ML models into backend services & APIs |
+Focused on **Machine Learning**.
 
 ---
 
