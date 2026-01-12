@@ -22,7 +22,7 @@ Experienced in backend systems, modern frontend, ERP integrations, and data-driv
 |----|-----------|------------|----|--------|
 
 ### Frameworks & Libraries
-| Laravel | CodeIgniter | .NET | NestJS | React.js | Node.js | Odoo |
+| Laravel | CodeIgniter | .NET | NestJS | ReactJS | ExpressJS | Odoo |
 |--------|-------------|------|--------|----------|----------|-------|
 
 ### Databases
