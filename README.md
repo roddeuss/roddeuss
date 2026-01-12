@@ -8,12 +8,10 @@ Experienced in backend systems, modern frontend, ERP integrations, and data-driv
 
 ## About Me
 
-| Area | Description |
-|-----|------------|
-| Role | Fullstack Developer |
-| Focus | Backend architecture, API, frontend integration |
-| Experience | ERP, POS, internal enterprise systems |
-| Interest | Clean architecture, scalability, long-term maintainability |
+- Fullstack Developer with experience across backend and frontend development  
+- Focused on backend architecture, API design, and frontend integration  
+- Experienced in ERP, POS, and internal enterprise systems  
+- Passionate about clean architecture, scalability, and long-term maintainability  
 
 ---
 
