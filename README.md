@@ -44,13 +44,6 @@ Focused on **Machine Learning**.
 
 <!-- Most used languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roddeuss&layout=compact&langs_count=10)
-
-<!-- Commit / contribution streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roddeuss)
-
-<!-- Contribution activity graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roddeuss)
-
 ---
 
 ## Connect With Me
