@@ -96,8 +96,6 @@ I'm a Fullstack Developer focused on building scalable, maintainable, and busine
 
 ---
 
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
