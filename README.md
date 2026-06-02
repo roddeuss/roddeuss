@@ -88,14 +88,6 @@ I'm a Fullstack Developer focused on building scalable, maintainable, and busine
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roddeuss/roddeuss/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
