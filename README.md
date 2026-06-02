@@ -96,16 +96,6 @@ I'm a Fullstack Developer focused on building scalable, maintainable, and busine
 
 ---
 
-## ✨ Anime / Coding Vibes
-
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    width="420"
-    alt="coding anime"
-  />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
